@@ -1,6 +1,4 @@
-# Chat Application using PHP with MySQL & Ajax
 
-version: 1.0.0
 
 ## TECHNOLOGIES
 
